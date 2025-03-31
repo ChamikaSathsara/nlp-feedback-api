@@ -1,0 +1,30 @@
+{
+  "name": "nlp-feedback-api",
+  "version": "1.0.0",
+  "description": "Express.js API for analyzing user feedback using NLP to detect surprise and sentiment.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "nlp",
+    "sentiment",
+    "surprise",
+    "feedback",
+    "api",
+    "natural",
+    "compromise",
+    "swagger"
+  ],
+  "author": "Chamika Sathsara Pathirage",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "compromise": "^14.14.4",
+    "express": "^4.21.2",
+    "natural": "^8.0.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
